@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\smallcoinitem.gen.cpp",
+        "Source": "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\smallcoinitem.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\nbc_project_8editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\x64\\nbc_project_8editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_8\\definitions.nbc_project_8.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\smallcoinitem.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\coinitem.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\baseitem.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\iteminterface.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\iteminterface.generated.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\baseitem.generated.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\coinitem.generated.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\smallcoinitem.generated.h"
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_8\\definitions.nbc_project_8.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\source\\nbc_project_8\\public\\smallcoinitem.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\source\\nbc_project_8\\public\\coinitem.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\source\\nbc_project_8\\public\\baseitem.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\source\\nbc_project_8\\public\\iteminterface.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\iteminterface.generated.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\baseitem.generated.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\coinitem.generated.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_8\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\smallcoinitem.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

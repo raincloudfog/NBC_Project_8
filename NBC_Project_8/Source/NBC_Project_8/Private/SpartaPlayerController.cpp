@@ -182,7 +182,7 @@ void ASpartaPlayerController::StartGame(int32 index)
 			SpartaGameInstance->CurrentLevelIndex = index;
 			SpartaGameInstance->TotalScore = 0;
 
-			FName MapName = SpartaGameStateBase->LevelMapNames[SpartaGameStateBase->CurrentLevelIndex];
+			FName MapName = SpartaGameStateBase->LevelMapNames[SpartaGameStateBase->CurrentLevelIndex++];
 			UGameplayStatics::OpenLevel(GetWorld(), MapName);
 
 			SetPause(false);

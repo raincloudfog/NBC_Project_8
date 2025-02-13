@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NBC_PROJECT_8_WaveDataTable_generated_h
 
-#define FID_Users_qordl_Documents_Unreal_Projects_NBC_Project_8_Source_NBC_Project_8_Public_WaveDataTable_h_16_GENERATED_BODY \
+#define FID_Users_qordl_Documents_GitHub_NBC_Project_8_NBC_Project_8_Source_NBC_Project_8_Public_WaveDataTable_h_16_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FWaveDataTable_Statics; \
 	NBC_PROJECT_8_API static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> NBC_PROJECT_8_API UScriptStruct* StaticStruct<struct FWaveDataTable>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_qordl_Documents_Unreal_Projects_NBC_Project_8_Source_NBC_Project_8_Public_WaveDataTable_h
+#define CURRENT_FILE_ID FID_Users_qordl_Documents_GitHub_NBC_Project_8_NBC_Project_8_Source_NBC_Project_8_Public_WaveDataTable_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

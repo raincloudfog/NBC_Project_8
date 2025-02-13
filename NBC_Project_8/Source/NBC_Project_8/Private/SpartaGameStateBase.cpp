@@ -232,6 +232,7 @@ void ASpartaGameStateBase::OnGameOver()
 	{
 		if (ASpartaPlayerController* SpartaPlayerController = Cast<ASpartaPlayerController>(PlayerController))
 		{
+			CurrentLevelIndex = 0;
 			SpartaPlayerController->SetPause(true);
 			SpartaPlayerController->ShowMainMenu(true);
 		}

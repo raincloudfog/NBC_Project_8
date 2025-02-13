@@ -2,6 +2,22 @@
 	"RemapUnityFiles": 
 	{
 		"Module.NBC_Project_8.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"NBC_Project_8.cpp.obj",
+			"BaseItem.cpp.obj",
+			"BigCoinItem.cpp.obj",
+			"CoinItem.cpp.obj",
+			"HealingItem.cpp.obj",
+			"ItemInterface.cpp.obj",
+			"ItemSpawnRow.cpp.obj",
+			"MineItem.cpp.obj",
+			"SmallCoinItem.cpp.obj",
+			"SpartaCharacter.cpp.obj",
+			"SpartaGameInstance.cpp.obj",
+			"SpartaGameMode.cpp.obj",
+			"SpartaGameStateBase.cpp.obj",
+			"SpawnVolume.cpp.obj",
+			"WaveDataTable.cpp.obj",
 			"BaseItem.gen.cpp.obj",
 			"BigCoinItem.gen.cpp.obj",
 			"CoinItem.gen.cpp.obj",
@@ -17,23 +33,8 @@
 			"SpartaGameStateBase.gen.cpp.obj",
 			"SpartaPlayerController.gen.cpp.obj",
 			"SpawnVolume.gen.cpp.obj",
-			"PerModuleInline.gen.cpp.obj",
-			"NBC_Project_8.cpp.obj",
-			"BaseItem.cpp.obj",
-			"BigCoinItem.cpp.obj",
-			"CoinItem.cpp.obj",
-			"HealingItem.cpp.obj",
-			"ItemInterface.cpp.obj",
-			"ItemSpawnRow.cpp.obj",
-			"MineItem.cpp.obj",
-			"SmallCoinItem.cpp.obj",
-			"SpartaCharacter.cpp.obj",
-			"SpartaGameInstance.cpp.obj",
-			"SpartaGameMode.cpp.obj",
-			"SpartaGameStateBase.cpp.obj",
-			"SpartaPlayerController.cpp.obj",
-			"SpawnVolume.cpp.obj",
-			"WaveDataTable.cpp.obj"
+			"WaveDataTable.gen.cpp.obj",
+			"SpartaPlayerController.cpp.obj"
 		]
 	}
 }
