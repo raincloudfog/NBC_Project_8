@@ -28,13 +28,13 @@
 			"ItemSpawnRow.cpp.obj",
 			"MineItem.cpp.obj",
 			"SmallCoinItem.cpp.obj",
-			"SpartaCharacter.cpp.obj",
 			"SpartaGameInstance.cpp.obj",
 			"SpartaGameMode.cpp.obj",
 			"SpartaGameStateBase.cpp.obj",
 			"SpartaPlayerController.cpp.obj",
 			"SpawnVolume.cpp.obj",
-			"WaveDataTable.cpp.obj"
+			"WaveDataTable.cpp.obj",
+			"SpartaCharacter.cpp.obj"
 		]
 	}
 }

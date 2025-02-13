@@ -134,7 +134,7 @@ void ASpartaCharacter::Look(const FInputActionValue& Value)
 	FVector2D LookInput = Value.Get<FVector2D>();
 
 	AddControllerYawInput(LookInput.X);
-	AddControllerYawInput(LookInput.Y);
+	AddControllerPitchInput(LookInput.Y);
 
 }
 

@@ -25,7 +25,6 @@
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/ItemSpawnRow.cpp"
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/MineItem.cpp"
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/SmallCoinItem.cpp"
-#include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/SpartaCharacter.cpp"
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/SpartaGameInstance.cpp"
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/SpartaGameMode.cpp"
 #include "C:/Users/qordl/Documents/GitHub/NBC_Project_8/NBC_Project_8/Source/NBC_Project_8/Private/SpartaGameStateBase.cpp"
