@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\private\\spawnvolume.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\nbc_project_8editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_8\\definitions.nbc_project_8.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\spawnvolume.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\itemspawnrow.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\itemspawnrow.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\wavedatatable.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\wavedatatable.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\spawnvolume.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\spartagamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\spartagamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

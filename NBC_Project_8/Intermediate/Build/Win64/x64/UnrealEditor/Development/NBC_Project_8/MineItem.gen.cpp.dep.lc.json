@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\mineitem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\nbc_project_8editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_8\\definitions.nbc_project_8.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\mineitem.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\baseitem.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\source\\nbc_project_8\\public\\iteminterface.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\iteminterface.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\baseitem.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_8\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_8\\uht\\mineitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

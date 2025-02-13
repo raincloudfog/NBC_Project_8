@@ -1,0 +1,42 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NBC_Project_8-0011.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\NBC_Project_8Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\BaseItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\BigCoinItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\CoinItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\HealingItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\ItemInterface.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\ItemSpawnRow.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\MineItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\NBC_Project_8.init.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SmallCoinItem.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaCharacter.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameInstance.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameMode.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameStateBase.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaPlayerController.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpawnVolume.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\NBC_Project_8.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\BaseItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\BigCoinItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\CoinItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\HealingItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\ItemInterface.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\ItemSpawnRow.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\MineItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SmallCoinItem.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaCharacter.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameInstance.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameMode.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaGameStateBase.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpartaPlayerController.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\SpawnVolume.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\PerModuleInline.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\Default.rc2.res"
+/OUT:"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_8\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_8\UnrealEditor-NBC_Project_8-0011.lib"
