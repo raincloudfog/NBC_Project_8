@@ -15,7 +15,6 @@
 			"SpartaCharacter.cpp.obj",
 			"SpartaGameInstance.cpp.obj",
 			"SpartaGameMode.cpp.obj",
-			"SpartaGameStateBase.cpp.obj",
 			"SpawnVolume.cpp.obj",
 			"WaveDataTable.cpp.obj",
 			"BaseItem.gen.cpp.obj",
@@ -34,6 +33,7 @@
 			"SpartaPlayerController.gen.cpp.obj",
 			"SpawnVolume.gen.cpp.obj",
 			"WaveDataTable.gen.cpp.obj",
+			"SpartaGameStateBase.cpp.obj",
 			"SpartaPlayerController.cpp.obj"
 		]
 	}
