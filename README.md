@@ -1,5 +1,15 @@
 # NBC_Project_8
 
+
+
+![스크린샷 2025-02-13 140124](https://github.com/user-attachments/assets/b4132217-0ddf-42b9-bf5f-9bc4ddfca429)
+
+
+![스크린샷 2025-02-13 140146](https://github.com/user-attachments/assets/17e759f9-c0a0-4465-bf09-9fe1bb62b761)
+
+![스크린샷 2025-02-13 140155](https://github.com/user-attachments/assets/64454c14-b3ea-47b6-afb0-be7e3f70c72a)
+
+
 ## 과제
 기존 3주차 4주차 프로젝트에서 만든 인터페이스 기반아이템 , 충돌 이벤트 , 랜덤 스폰 ,체력/점수, 웨이브/시간 제어, UI 등 다양한 기능이 이미 구현되어 있다.
 그 프로젝트에 기능을 재설계 , 확장하는 것
@@ -7,7 +17,7 @@
 ### 필수 과제
 1. 멀티 웨이브 구조 구현 (3단계이상의 웨이브 구현) ㅇ
    
-2.  HUD & 메뉴 UI 리뉴얼 ㅇ
+2.  HUD & 메뉴 UI 리뉴얼 ㅇ ( 20 초 5초 마다 지뢰가 늘어나는 방식을 채택)
 
 
 ### 도전 과제
@@ -31,7 +41,20 @@ GameState에서 int32 Wave를 만들어주기
 버튼을 늘려서 특정 난이도 부터 시작할 수 있도록 하는것과 게임 종료 버튼을 늘려주는게 어떨가 싶다.
 
 
-## 과정 1
+### 필수 과제 과정 
+
+SpawnValue
+
+FWaveItemData라는 구조체를 만들어서 TArray<UDataTable*> 를 가지고 있고
+해당 CurrentLevelIndex 에 맞는 FWaveItemData의 데이터 테이블 값을 이용하여 웨이브를 진행하였습니다.
+
+WBP - MainMenu
+
+Start버튼 대신 Level 1 2 3 으로 갈 수 있는 버튼을 만들어준후 Start 이벤트에 
+SpartaPlayerController에 StartGame()함수를 StartGame(int32 index)로 만들어주어서 해당 인덱스에 맞는 맵으로 이동 할 수 있게끔해주었습니다.
+
+
+## 과정 들 ( 안보셔도됩니다)
 ### SpawnVolume
 
 TArray<UDataTable*> ItemDataTables;
@@ -65,3 +88,5 @@ Wave마다 DataTable이 늘어나는 과정을 포함하니 datatable을 담은 
 아직 코드를 분석하는 것보다 공장에서 찍어내듯 따라하면서 공부한 것이 아닌가싶었습니다. 
 그래서 이번에는 따라하되 조금이라도 이해하면서 시도를 해봤습니다 그과정에서 코드놓친부분이 있었을 때 특정 클래스에 특정 함수가 문제인걸
 알고 수정 했지만 !!! 어느 코드였는지 까먹었습니다.
+
+그 과정이 길어지다보니 수요일날 필수과제를 한번에 몰아서 하게 되는 상황이 나왔지만 오히려 코드 복습이 되었습니다.
